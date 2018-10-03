@@ -81,24 +81,15 @@ button a{
 }
 #video{
 	height: 400px;
-}
-/*#quals_vid{
-	position: relative;
-	right: 0;
-	bottom: 0;
-	min-width: 100%;
-	min-height: 100%;
-	z-index: -1;
-}*/
-.vid_text{
-/*	position: fixed;
 	text-align: center;
-	bottom: 0;
-	width: 100%;
-	padding: 20px;
-	z-index: 1;*/
+	color: blue;
 }
-
+.cert{
+	
+}
+.cert img{
+	height: 400px;
+}
 .Contact{
 	text-align: center;
 }
