@@ -1,16 +1,11 @@
-body {
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
-}
 
-.navbar{
+
+/*.navbar{
 	text-align: center;
 	margin: 0;
 	padding: 10px;
 	background-color: #24242a;
 	display: block;
-	/*width: 100%;*/
 }
 .navbar li{
 	display: inline;
@@ -24,6 +19,7 @@ body {
 .navbar li a:hover{
 	color: #2F73B7;
 }
+*/
 
 /*defaults*/
 section{
@@ -40,16 +36,15 @@ section{
 	border-top: 1px solid black;
 	background-image: url('img/welcome.png');
 	background-repeat: none;
-	/*background-size: fill;*/
 }
 .welcome_btn{
 	padding: 10px;
 	font-size: 22px;
 	background-color: #2F73B7;
 }
-button a{
+/*button a{
 	text-decoration: none;
-}
+}*/
 
 /*About*/
 .about{
@@ -84,11 +79,12 @@ button a{
 	text-align: center;
 	color: blue;
 }
-.cert{
-	
+.cert_box{
+	display: inline-block;
+	border: 1px solid black;
 }
-.cert img{
-	height: 400px;
+.cert_box img{
+	height: 250px;
 }
 .Contact{
 	text-align: center;
