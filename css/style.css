@@ -42,6 +42,10 @@ section{
 	font-size: 22px;
 	background-color: #2F73B7;
 }
+.carousel-caption {
+	top: 50px;
+    bottom: auto;
+}
 /*button a{
 	text-decoration: none;
 }*/
